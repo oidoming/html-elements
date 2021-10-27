@@ -1,0 +1,45 @@
+
+#runners {
+    opacity: 0.3;
+}
+
+.runcard {
+    width: 70em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.details-text {
+    font-size: 21px;
+}
+
+img.sponsor {
+    display: inline-block; 
+    max-width: 300px;
+    height: auto;
+    margin: 8px;
+}
+
+.antLinks {
+    color: black;
+    text-decoration: none;
+}
+
+#antsCards {
+    margin: 3rem; 
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 80rem; 
+    text-align: center;
+}
+
+div.antCard {
+    width: 18rem; 
+    display: inline-block; 
+    margin: 5px;
+}
+
+#carouselExampleIndicators {
+    margin-left: auto;
+    margin-right: auto;
+}
